@@ -1,3 +1,2 @@
 # Modul_Statistik
-
-- Juna kece
+Richard kemren
